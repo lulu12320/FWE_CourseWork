@@ -1,0 +1,5 @@
+Luxi Feyereisen Homework 1
+
+Topics Learned:
+1. Git Basics
+2. Branching
